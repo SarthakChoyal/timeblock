@@ -1,0 +1,25 @@
+{
+    "blockTimeRange": {
+      "start": "10:00",
+      "end": "17:00"
+    },
+    "blockedWebsites": [
+      "netflix.com",
+      "youtube.com",
+      "reddit.com",
+      "twitter.com",
+      "whatsapp.com",
+      "snapchat.com",
+      "crazygames.com",
+      "poki.com",
+      "disneyplus.com",
+      "paramountplus.com",
+      "nickelodeon.com",
+      "disney.com",
+      "epicgames.com",
+      "minecraft.net",
+      "fortnite.com",
+      "epicgames.com"
+    ]
+  }
+  
